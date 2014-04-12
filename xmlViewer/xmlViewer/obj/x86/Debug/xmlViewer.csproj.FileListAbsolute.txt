@@ -1,0 +1,36 @@
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\bin\Debug\xmlViewer.exe
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\bin\Debug\xmlViewer.pdb
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Form1.resources
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Properties.Resources.resources
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.exe
+d:\profiles\05102\documents\visual studio 2010\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.pdb
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.exe
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.pdb
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\bin\Debug\xmlViewer.exe
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\bin\Debug\xmlViewer.pdb
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Form1.resources
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Properties.Resources.resources
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Cделанные задания\C#\Windows Forms\Projects\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.exe
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.pdb
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\bin\Debug\xmlViewer.exe
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\bin\Debug\xmlViewer.pdb
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Form1.resources
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Properties.Resources.resources
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Profiles\05102\Desktop\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.exe
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.pdb
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\bin\Debug\xmlViewer.exe
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\bin\Debug\xmlViewer.pdb
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\xmlViewer.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\xmlViewer\xmlViewer\obj\x86\Debug\GenerateResource.write.1.tlog
